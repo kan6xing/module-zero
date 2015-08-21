@@ -38,4 +38,3 @@ Password: 123qwe
 After login, a question list is shown:
 
 ![alt login form](https://raw.githubusercontent.com/aspnetboilerplate/module-zero/master/doc/question-list.png)
-MYTEST
